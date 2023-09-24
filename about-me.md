@@ -20,9 +20,11 @@ Python, SQL, AWS, Snowflake, MATLAB
 
 - Bachelor of Engineering in Computer Engineering
   University of Mumbai, India (_May 2019_)
+  
 <div style="text-align: center;">
   <img src="/assets/img/MU.png" alt="University of Mumbai" width="100" height="100">
 </div>
+
 ## Work Experience
 **Product Analyst @ Homesite Insurance (_July 2023 - Present_)**
 <p align="justify">
