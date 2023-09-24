@@ -13,8 +13,11 @@ layout: default
 
 Python, SQL, AWS, Snowflake, MATLAB
 ## Education
-- Master of Science in Data Science | Northeastern University, Boston (_May 2024_)	 			        		
+- Master of Science in Data Science | Northeastern University, Boston (_May 2024_)
+![Northeastern University](/assets/img/Northeastern_seal.svg.png)
+
 - Bachelor of Engineering in Computer Engineering | University of Mumbai, India (_May 2019_)
+![University of Mumbai](/assets/img/University_of_Mumbai_coat_of_arms.svg.png )
 
 ## Work Experience
 **Product Analyst @ Homesite Insurance (_July 2023 - Present_)**
