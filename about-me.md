@@ -5,7 +5,7 @@ layout: default
 # Academic & Work Experience
 
 ## Technical Skills
-####Programming Languages
+### Programming Languages
 - Python (Pandas, PyTorch, NumPy, Scikit Learn, Keras, Seaborn, Matplotlib, PySpark, TensorFlow, NLTK, Spacy, Hugging Face), R (ggplot2, Dplyr, Tidyr, Rshiny), SQL (Postgres, MsSQL, MySQL, T-SQL), NoSQL (Firebase), Java (Spring, Boot, Hibernate, Hadoop), JavaScript, Typescript, C, CSS3 (Bootstrap), HTML5.
 
 ### Cloud Services 
