@@ -4,6 +4,17 @@ layout: default
 
 # Academic & Work Experience
 
+## Technical Skills
+####Programming Languages
+- Python (Pandas, PyTorch, NumPy, Scikit Learn, Keras, Seaborn, Matplotlib, PySpark, TensorFlow, NLTK, Spacy, Hugging Face), R (ggplot2, Dplyr, Tidyr, Rshiny), SQL (Postgres, MsSQL, MySQL, T-SQL), NoSQL (Firebase), Java (Spring, Boot, Hibernate, Hadoop), JavaScript, Typescript, C, CSS3 (Bootstrap), HTML5.
+
+### Cloud Services 
+- AWS (S3, EC2, Lambda), GCP (BigQuery), Azure (Data Studio).
+
+### Business Intelligence Tools 
+– Lookers, Looker Studio, MS Power BI, Tableau, Quicksight, MS Excel, Power Query, Weka, Google Analytics.
+
+Python, SQL, AWS, Snowflake, MATLAB
 ## Education
 - Master of Science in Data Science | Northeastern University, Boston (_May 2024_)	 			        		
 - Bachelor of Engineering in Computer Engineering | University of Mumbai, India (_May 2019_)
@@ -34,6 +45,10 @@ layout: default
 - Built Cloud-Native Digital Portals for Insurance Brokers and Underwriters which provided real-time insurance-specific capabilities using integrations based on Microservices architecture, setting code base in T-SQL, Angular, JavaScript & API’s along with Postman, Pilotfish and Google Analytics. 
 </p>
 
+**Intern @ Majesco Software and Solutions (_Jun 2018 - July 2018_)**
+<p align="justify">
+- Developed a dynamic application that allowed users to choose variables and generate reports using dynamic T-SQL stored procedures, A/B testing was performed to see how users react, and it led to 2.8% increase in engagement with the application.
+</p>
 
 **Virtual Experience Program Intern @ Boston Consulting Group (_Mar 2020 - Apr 2020_)**
 <p align="justify">
@@ -41,11 +56,6 @@ layout: default
 </p>
 <p align="justify">
 -	Recommended a handset leasing consumer offer to reduce customer churn rate and help drive profitability improvement with a revenue growth of 2.5% - 4.25%.
-</p>
-
-**Intern @ Majesco Software and Solutions (_Jun 2018 - July 2018_)**
-<p align="justify">
-- Developed a dynamic application that allowed users to choose variables and generate reports using dynamic T-SQL stored procedures, A/B testing was performed to see how users react, and it led to 2.8% increase in engagement with the application.
 </p>
 
 
