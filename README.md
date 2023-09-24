@@ -90,7 +90,7 @@ Developed a system that uses the Twitter API to scrape the real-time tweets, cla
 
 ## Contact Me
 <ul>
-  <li><a href="mailto:indore.k@northeastern.edu">Email</a></li>
+  <li><a href="mailto:indore.k@northeastern.edu">indore.k@northeastern.edu</a></li>
   {% for social_link in site.social %}
     <li><a href="{{ social_link.url }}" target="_blank">{{ social_link.title }}</a></li>
   {% endfor %}
