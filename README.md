@@ -2,7 +2,14 @@
 
 <p align="justify">With 3 years of professional experience honing my skills in client communication, requirement gathering, and overall business conduct, I am currently pursuing Master's in Data Science at Northeastern University, Boston with concurrent professional experience as a Product Analyst Co-op at Homesite Insurance within the American Family Insurance group. My passion for data science, analysis, and visualization drives me to craft compelling narratives through data exploration and my curiosity extends to Machine Learning and Natural Language Processing. I seek opportunities within organizations that not only leverage my existing knowledge but also foster my growth by embracing new technologies and contributing to their continued success. </p>
 
-[About Me!](./about-me.html)
+[Academic and Work Experience](./about-me.html)
+
+## Recent Projects
+### [Counting Blood cells and WBC type Prediction](https://github.com/Kunal18/Blood-Cell-Detection){:target="_blank"}
+
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ## Publication
 ### Depression Detection System by Analyzing Tweets
