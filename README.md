@@ -2,6 +2,9 @@
 
 <p align="justify">With 3 years of professional experience honing my skills in client communication, requirement gathering, and overall business conduct, I am currently pursuing Master's in Data Science at Northeastern University, Boston with concurrent professional experience as a Product Analyst Co-op at Homesite Insurance within the American Family Insurance group. My passion for data science, analysis, and visualization drives me to craft compelling narratives through data exploration and my curiosity extends to Machine Learning and Natural Language Processing. I seek opportunities within organizations that not only leverage my existing knowledge but also foster my growth by embracing new technologies and contributing to their continued success. </p>
 
+<button href="./about-me.html" type="button" style="background-color: #f5f5f5; color: #333; padding: 10px 20px; border: 1px solid #ccc; border-radius: 5px; cursor: pointer;"> About Me </button>
+
+</body>
 ## Education
 - Master of Science in Data Science | Northeastern University, Boston (_May 2024_)	 			        		
 - Bachelor of Engineering in Computer Engineering | University of Mumbai, India (_May 2019_)
@@ -44,9 +47,9 @@
 -	Recommended a handset leasing consumer offer to reduce customer churn rate and help drive profitability improvement with a revenue growth of 2.5% - 4.25%.
 </p>
 
-## Recent Projects
+## Publication
 ### Depression Detection System by Analyzing Tweets
-[Publication](https://dx.doi.org/10.2139/ssrn.3358809)
+[Publication](https://dx.doi.org/10.2139/ssrn.3358809){:target="_blank"}
 <p align="justify">
 Developed a system that uses the Twitter API to scrape the real-time tweets, classified the tweets employing a Hybrid Naive Bayes and SVM (NB-SVM) model and used data visualization methodologies to classify depression into two major categories - Major depression and Bipolar depression with an F1 score of 85%.
 </p>
