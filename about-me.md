@@ -4,8 +4,6 @@ layout: default
 
 # Academic & Work Experience
 
-[Home](./)
-
 ## Education
 - Master of Science in Data Science | Northeastern University, Boston (_May 2024_)	 			        		
 - Bachelor of Engineering in Computer Engineering | University of Mumbai, India (_May 2019_)
@@ -14,6 +12,7 @@ layout: default
 **Product Analyst @ Homesite Insurance (_July 2023 - Present_)**
 <p align="justify">
 -	Designed data models, formulated SQL queries in Google BigQuery to track partner companies incoming quotes and extracted diverse data from partner firms for advanced analysis.
+</p>
 <p align="justify">
 -	Designed and implemented a Looker dashboard to monitor new quotes across all operating companies, presenting key metrics, analyzing trends, thereby empowering business teams and state managers to make well-informed, data-driven decisions.
 </p>
@@ -35,10 +34,6 @@ layout: default
 - Built Cloud-Native Digital Portals for Insurance Brokers and Underwriters which provided real-time insurance-specific capabilities using integrations based on Microservices architecture, setting code base in T-SQL, Angular, JavaScript & API’s along with Postman, Pilotfish and Google Analytics. 
 </p>
 
-**Intern @ Majesco Software and Solutions (_Jun 2018 - July 2018_)**
-<p align="justify">
-- Developed a dynamic application that allowed users to choose variables and generate reports using dynamic T-SQL stored procedures, A/B testing was performed to see how users react, and it led to 2.8% increase in engagement with the application.
-</p>
 
 **Virtual Experience Program Intern @ Boston Consulting Group (_Mar 2020 - Apr 2020_)**
 <p align="justify">
@@ -47,5 +42,11 @@ layout: default
 <p align="justify">
 -	Recommended a handset leasing consumer offer to reduce customer churn rate and help drive profitability improvement with a revenue growth of 2.5% - 4.25%.
 </p>
+
+**Intern @ Majesco Software and Solutions (_Jun 2018 - July 2018_)**
+<p align="justify">
+- Developed a dynamic application that allowed users to choose variables and generate reports using dynamic T-SQL stored procedures, A/B testing was performed to see how users react, and it led to 2.8% increase in engagement with the application.
+</p>
+
 
 [Home](./)
