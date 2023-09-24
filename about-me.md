@@ -5,14 +5,11 @@ layout: default
 # Academic & Work Experience
 
 ## Technical Skills
-### Programming Languages
-- Python (Pandas, PyTorch, NumPy, Scikit Learn, Keras, Seaborn, Matplotlib, PySpark, TensorFlow, NLTK, Spacy, Hugging Face), R (ggplot2, Dplyr, Tidyr, Rshiny), SQL (Postgres, MsSQL, MySQL, T-SQL), NoSQL (Firebase), Java (Spring, Boot, Hibernate, Hadoop), JavaScript, Typescript, C, CSS3 (Bootstrap), HTML5.
+**Programming Languages:** Python (Pandas, PyTorch, NumPy, Scikit Learn, Keras, Seaborn, Matplotlib, PySpark, TensorFlow, NLTK, Spacy, Hugging Face), R (ggplot2, Dplyr, Tidyr, Rshiny), SQL (Postgres, MsSQL, MySQL, T-SQL), NoSQL (Firebase), Java (Spring, Boot, Hibernate, Hadoop), JavaScript, Typescript, C, CSS3 (Bootstrap), HTML5.
 
-### Cloud Services 
-- AWS (S3, EC2, Lambda), GCP (BigQuery), Azure (Data Studio).
+**Cloud Services:** AWS (S3, EC2, Lambda), GCP (BigQuery), Azure (Data Studio).
 
-### Business Intelligence Tools 
-– Lookers, Looker Studio, MS Power BI, Tableau, Quicksight, MS Excel, Power Query, Weka, Google Analytics.
+**Business Intelligence Tools:** Lookers, Looker Studio, MS Power BI, Tableau, Quicksight, MS Excel, Power Query, Weka, Google Analytics.
 
 Python, SQL, AWS, Snowflake, MATLAB
 ## Education
