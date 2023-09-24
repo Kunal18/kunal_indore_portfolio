@@ -3,3 +3,8 @@ logo: /assets/img/IMG_20190415_112047-01-EDIT.jpg
 description: Analyzing the World, One Dataset at a Time
 show_downloads: true
 theme: jekyll-theme-minimal
+social:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/kunal-indore/
+  - title: GitHub
+    url: https://github.com/Kunal18
