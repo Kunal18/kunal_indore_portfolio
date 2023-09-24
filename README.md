@@ -11,7 +11,7 @@
 <p align="justify">
 - Classified WBC cell type using transfer learning using the Inception model, with an accuracy of 99.15%, followed by ResNet-50 (96.08%), and developed a custom CNN architecture with an accuracy of 98.34% despite having fewer parameters.</p>
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Counting Blood cells](/assets/img/cbc.jpg)
 
 ### [Trending YouTube Video Statistics using sentiment analysis](https://github.com/Kunal18/Youtube_Statistics#youtubestatistics_sml){:target="_blank"}
 
@@ -20,7 +20,7 @@
 <p align="justify">
 - Created a Rshiny application for filtering video searches based on various parameters enhancing user’s ability to browse content.</p>
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Youtube Statistics](/assets/img/yt.jpg)
 
 ## Publication
 ### Depression Detection System by Analyzing Tweets
