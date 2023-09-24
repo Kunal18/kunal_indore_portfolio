@@ -2,9 +2,8 @@
 
 <p align="justify">With 3 years of professional experience honing my skills in client communication, requirement gathering, and overall business conduct, I am currently pursuing Master's in Data Science at Northeastern University, Boston with concurrent professional experience as a Product Analyst Co-op at Homesite Insurance within the American Family Insurance group. My passion for data science, analysis, and visualization drives me to craft compelling narratives through data exploration and my curiosity extends to Machine Learning and Natural Language Processing. I seek opportunities within organizations that not only leverage my existing knowledge but also foster my growth by embracing new technologies and contributing to their continued success. </p>
 
-<button href="./about-me.html" type="button" style="background-color: #f5f5f5; color: #333; padding: 10px 20px; border: 1px solid #ccc; border-radius: 5px; cursor: pointer;"> About Me </button>
+<button type="button" style="background-color: #f5f5f5; color: #333; padding: 10px 20px; border: 1px solid #ccc; border-radius: 5px; cursor: pointer;"> (./about-me.html) </button>
 
-</body>
 ## Education
 - Master of Science in Data Science | Northeastern University, Boston (_May 2024_)	 			        		
 - Bachelor of Engineering in Computer Engineering | University of Mumbai, India (_May 2019_)
