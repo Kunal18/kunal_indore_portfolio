@@ -88,3 +88,10 @@
 Developed a system that uses the Twitter API to scrape the real-time tweets, classified the tweets employing a Hybrid Naive Bayes and SVM (NB-SVM) model and used data visualization methodologies to classify depression into two major categories - Major depression and Bipolar depression with an F1 score of 85%.
 </p>
 
+<footer>
+  <ul>
+    {% for social_link in site.social %}
+      <li><a href="{{ social_link.url }}" target="_blank">{{ social_link.title }}</a></li>
+    {% endfor %}
+  </ul>
+</footer>
