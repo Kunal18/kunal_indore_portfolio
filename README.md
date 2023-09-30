@@ -3,22 +3,22 @@
 <p align="justify">With 3 years of professional experience honing my skills in client communication, requirement gathering, and overall business conduct, I am currently pursuing Master's in Data Science at Northeastern University, Boston with concurrent professional experience as a Product Analyst Co-op at Homesite Insurance within the American Family Insurance group. My passion for data science, analysis, and visualization drives me to craft compelling narratives through data exploration and my curiosity extends to Machine Learning and Natural Language Processing. I seek opportunities within organizations that not only leverage my existing knowledge but also foster my growth by embracing new technologies and contributing to their continued success. </p>
 
 ## Technical Skills
-**Programming Languages:** **Python** (Pandas, PyTorch, NumPy, Scikit Learn, Keras, Seaborn, Matplotlib, PySpark, TensorFlow, NLTK, Spacy, Hugging Face), **R** (ggplot2, Dplyr, Tidyr, Rshiny), **SQL** (Postgres, MsSQL, MySQL, T-SQL), **NoSQL** (Firebase), **Java** (Spring, Boot, Hibernate, Hadoop), JavaScript, Typescript, C, CSS3 (Bootstrap), HTML5.
+**Programming Languages:** Python (Pandas, PyTorch, NumPy, Scikit Learn, Keras, Seaborn, Matplotlib, PySpark, TensorFlow, NLTK, Spacy, Hugging Face), R (ggplot2, Dplyr, Tidyr, Rshiny), **SQL** (Postgres, MsSQL, MySQL, T-SQL), NoSQL (Firebase), Java (Spring, Boot, Hibernate, Hadoop), JavaScript, Typescript, C, CSS3 (Bootstrap), HTML5.
 
-**Cloud Services:** **AWS** (S3, EC2, Lambda), **GCP** (BigQuery, GCS, Vertex AI), **Azure** (Data Studio).
+**Cloud Services:** AWS (S3, EC2, Lambda), GCP (BigQuery, GCS, Vertex AI), Azure (Data Studio).
 
 **Business Intelligence Tools:** Looker, Looker Studio, MS Power BI, Tableau, Quicksight, MS Excel, Power Query, Weka, Google Analytics.
 
 ## Education
 
 - Master of Science in Data Science
-**Northeastern University**, Boston (_May 2024_)
+<p>**Northeastern University**, Boston (_May 2024_)</p>
   <div style="text-align: center;">
     <img src="https://github.com/Kunal18/kunal_indore_portfolio/blob/main/assets/img/Northeastern_seal.svg.png" alt="Northeastern University" width="100px" height="100px">
   </div>
 
 - Bachelor of Engineering in Computer Engineering
-**University of Mumbai**, India (_May 2019_)
+<p>**University of Mumbai**, India (_May 2019_)</p>
   
   <div style="text-align: center;">
     <img src="https://github.com/Kunal18/kunal_indore_portfolio/blob/main/assets/img/mu.jpg" alt="University of Mumbai" width="100px" height="100px">
@@ -38,7 +38,7 @@
 
 **Software Engineer @ Majesco Software and Solutions (_July 2019 - July 2022_)**
 <p align="justify">
-- Created a <b>recommendation system</b> for providing preliminary quotes, the recommendation system and a <b>proprietary rating algorithm<b> were integrated into a web portal to deliver real-time results, decreasing the process lifecycle by <b>54 seconds</b>.
+- Created a <b>recommendation system</b> for providing preliminary quotes, the recommendation system and a <b>proprietary rating algorithm</b> were integrated into a web portal to deliver real-time results, decreasing the process lifecycle by <b>54 seconds</b>.
 </p>
 <p align="justify">
 - Analyzed data and generated insights for insurance agents and brokers, utilizing <b>Power BI</b> created <b>KPI dashboards</b> to display daily insurance quotes, issued policies, payments, and number of users. Automated the process for determining processed and unprocessed quotes and policies by sending weekly emails using <b>SQL Batch Procedures</b>, reducing insurance team’s efforts.
