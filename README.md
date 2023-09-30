@@ -11,18 +11,14 @@
 
 ## Education
 
-- Master of Science in Data Science | **Northeastern University**, Boston (_May 2024_)
+- Master of Science in Data Science
+
+
+  **Northeastern University**, Boston (_May 2024_)
   
-  <div style="text-align: center;">
-    <img src="https://github.com/Kunal18/kunal_indore_portfolio/blob/main/assets/img/Northeastern_seal.svg.png" alt="Northeastern University" width="100px" height="100px">
-  </div>
-
-- Bachelor of Engineering in Computer Engineering | **University of Mumbai**, India (_May 2019_)
-
-  ![University of Mumbai](/assets/img/mu.jpg)
-  <div style="text-align: center;">
-    <img src="https://github.com/Kunal18/kunal_indore_portfolio/blob/main/assets/img/mu.jpg" alt="University of Mumbai" width="100px" height="100px">
-  </div>
+- Bachelor of Engineering in Computer Engineering
+<br/>
+  **University of Mumbai**, India (_May 2019_)
 
 ## Work Experience
 **Product Analyst @ Homesite Insurance (_July 2023 - Present_)**
