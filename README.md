@@ -3,7 +3,7 @@
 <p align="justify">With 3 years of professional experience honing my skills in client communication, requirement gathering, and overall business conduct, I am currently pursuing Master's in Data Science at Northeastern University, Boston with concurrent professional experience as a Product Analyst Co-op at Homesite Insurance within the American Family Insurance group. My passion for data science, analysis, and visualization drives me to craft compelling narratives through data exploration and my curiosity extends to Machine Learning and Natural Language Processing. I seek opportunities within organizations that not only leverage my existing knowledge but also foster my growth by embracing new technologies and contributing to their continued success. </p>
 
 ## Technical Skills
-**Programming Languages:** Python (Pandas, PyTorch, NumPy, Scikit Learn, Keras, Seaborn, Matplotlib, PySpark, TensorFlow, NLTK, Spacy, Hugging Face), R (ggplot2, Dplyr, Tidyr, Rshiny), **SQL** (Postgres, MsSQL, MySQL, T-SQL), NoSQL (Firebase), Java (Spring, Boot, Hibernate, Hadoop), JavaScript, Typescript, C, CSS3 (Bootstrap), HTML5.
+**Programming Languages:** Python (Pandas, PyTorch, NumPy, Scikit Learn, Keras, Seaborn, Matplotlib, PySpark, TensorFlow, NLTK, Spacy, Hugging Face), R (ggplot2, Dplyr, Tidyr, Rshiny), SQL (Postgres, MsSQL, MySQL, T-SQL), NoSQL (Firebase), Java (Spring, Boot, Hibernate, Hadoop), JavaScript, Typescript, C, CSS3 (Bootstrap), HTML5.
 
 **Cloud Services:** AWS (S3, EC2, Lambda), GCP (BigQuery, GCS, Vertex AI), Azure (Data Studio).
 
@@ -11,14 +11,12 @@
 
 ## Education
 
-- Master of Science in Data Science
-<p>**Northeastern University**, Boston (_May 2024_)</p>
+- Master of Science in Data Science | **Northeastern University**, Boston (_May 2024_)
   <div style="text-align: center;">
     <img src="https://github.com/Kunal18/kunal_indore_portfolio/blob/main/assets/img/Northeastern_seal.svg.png" alt="Northeastern University" width="100px" height="100px">
   </div>
 
-- Bachelor of Engineering in Computer Engineering
-<p>**University of Mumbai**, India (_May 2019_)</p>
+- Bachelor of Engineering in Computer Engineering | **University of Mumbai**, India (_May 2019_)
   
   <div style="text-align: center;">
     <img src="https://github.com/Kunal18/kunal_indore_portfolio/blob/main/assets/img/mu.jpg" alt="University of Mumbai" width="100px" height="100px">
@@ -66,9 +64,9 @@
 ## Recent Projects
 ### [Counting Blood cells and WBC type Prediction](https://github.com/Kunal18/Blood-Cell-Detection){:target="_blank"}
 
-<p align="justify">- Trained the YOLOv5 model on blood cell images, augmenting the dataset to identify the bounding boxes of RBCs, WBCs, and platelets, and achieving a mAP of 92.6% within 100 epochs of training.</p>
+<p align="justify">- Trained the <b>YOLOv5 model</b> on blood cell images, augmenting the dataset to identify the bounding boxes of RBCs, WBCs, and platelets, and achieving a mAP of <b>92.6%</b> within 100 epochs of training.</p>
 <p align="justify">
-- Classified WBC cell type using transfer learning using the Inception model, with an accuracy of 99.15%, followed by ResNet-50 (96.08%), and developed a custom CNN architecture with an accuracy of 98.34% despite having fewer parameters.</p>
+- Classified WBC cell type using transfer learning using the <b>Inception model</b>, with an accuracy of <b>99.15%</b>, followed by <b>ResNet-50 (96.08%)</b>, and developed a <b>custom CNN</b> architecture with an accuracy of <b>98.34%</b> despite having fewer parameters.</p>
 
 ![Counting Blood cells](/assets/img/cbc.jpg)
 
