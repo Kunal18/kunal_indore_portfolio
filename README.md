@@ -12,8 +12,7 @@
 ## Education
 
 - Master of Science in Data Science
-
-
+<br/>
   **Northeastern University**, Boston (_May 2024_)
   
 - Bachelor of Engineering in Computer Engineering
